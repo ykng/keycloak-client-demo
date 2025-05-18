@@ -1,13 +1,13 @@
-package com.example.keycloak_demo;
+package com.example.keycloakclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KeycloakDemoApplication {
+public class KeycloakClientDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KeycloakDemoApplication.class, args);
+		SpringApplication.run(KeycloakClientDemoApplication.class, args);
 	}
 
 }

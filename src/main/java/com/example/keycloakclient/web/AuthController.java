@@ -1,4 +1,4 @@
-package com.example.keycloak_demo.web;
+package com.example.keycloakclient.web;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
