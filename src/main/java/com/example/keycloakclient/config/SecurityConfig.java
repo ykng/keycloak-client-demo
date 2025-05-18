@@ -1,4 +1,4 @@
-package com.example.keycloak_demo.config;
+package com.example.keycloakclient.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

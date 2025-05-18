@@ -1,4 +1,4 @@
-package com.example.keycloak_demo;
+package com.example.keycloakclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

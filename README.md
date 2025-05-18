@@ -1,4 +1,4 @@
-# keycloak-demo
+# keycloak-client-demo
 
 認証をKeyCloakに委譲したSpringBootのデモアプリケーション
 
